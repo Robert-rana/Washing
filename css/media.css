@@ -1,0 +1,334 @@
+@media(max-width:992px){
+    .about-container{
+        width: 90%;
+    }
+    .index-container{
+        width: 95%;
+    }
+    .work-container{
+        width: 95%;
+    }
+    .why-container{
+        width: 95%;
+    }
+    .package-container{
+        width: 95%;
+    }
+    .message {
+        max-width: 550px;
+    }
+
+    /* --- about page ---  */
+
+    .about1-container{
+        width: 95%;
+    }
+    .trust-container{
+        width: 90%;
+    }
+    .special-container{
+        width: 95%;
+    }
+    .stats-container{
+        width: 95%;
+    }
+    .quality-container{
+        width: 95%;
+    }
+    .team-container{
+        width: 95%;
+    }
+    
+
+    /* ---- service page ----  */
+
+    .service-container{
+        width: 95%;
+    }
+    .feature-container{
+        width: 95%;
+    }
+    .feature-img img{
+        height: 60px;
+    }
+    .dry-container{
+        width: 95%;
+    }
+
+    /* ---- contact page ---- */
+
+    .contact-container {
+        width: 95%;
+    }
+
+
+    /* ---- 404 page ----  */
+
+    .error-container{
+        width: 94%;
+    }
+
+
+    /* ---- faq page ----  */
+
+    .faq-container{
+        width: 75%;
+    }
+
+}
+
+
+
+
+@media(max-width:768px){
+    .about-text {
+        padding: 30px 0;
+    }
+    #work{
+        height: 100%;
+    }
+    .work-container h3{
+        font-size: 40px;
+    }
+    .work-box h4{
+        font-size: 22px;
+    }
+    .why-container h3{
+        font-size: 40px;
+    }
+    .video{
+        margin-bottom: 40px;
+    }
+
+    #clean h3{
+        font-size: 40px;
+    }
+    #package h3{
+        font-size: 40px;
+    }
+    .testimony-text h3{
+        font-size: 40px;
+    }
+    .message{
+        max-width: 400px;
+    }
+    #footer{
+        height: 100%;
+    }
+    .social{
+        text-align: center;
+        padding-bottom: 20px;
+    }
+
+
+    /* --- about page ---  */
+
+    .about1-text h3{
+        font-size: 40px;
+    }
+    .special-text h3{
+        font-size: 40px;
+    }
+    .stats-text h3{
+        font-size: 40px;
+    }
+    .quality-img img{
+        margin-bottom: 30px;
+    }
+
+
+    /* ---- service page ---  */
+
+    .service-text h3{
+        font-size: 40px;
+    }
+    .service-box h4{
+        font-size: 34px;
+    }
+    .pr-6 {
+        padding-left: 15px;
+    }
+    .feature-text h3{
+        font-size: 40px;
+    }
+    .dry-text h3{
+        font-size: 40px;
+    }
+
+
+    /* ---- contact page ---- */
+
+    .contact-text h3{
+        font-size: 40px;
+    }
+
+
+
+    /* ---- 404 page ----  */
+
+    .error-box h2{
+        font-size: 100px;
+    }
+
+
+    /* ---- faq page ----  */
+
+    .faq-text h3{
+        font-size: 40px;
+    }
+}   
+
+
+
+@media(max-width:480px){
+    .carousel-item img{
+        height: 60vh;
+    }
+    .carousel-caption h3{
+        font-size: 30px;
+        margin-bottom: 10px;
+    }
+    .carousel-caption p{
+        font-size: 16px;
+        margin-bottom: 20px;
+    }
+    .carousel-caption {
+        top: 10%;
+    }
+
+    .work-container h3{
+        font-size: 32px;
+    }
+    .work-box h4{
+        font-size: 20px;
+    }
+    .why-container h3{
+        font-size: 32px;
+    }
+
+    .text-md-right{
+        text-align: left;
+    }
+
+    .testimony-text h3{
+        font-size: 32px;
+    }
+
+    .item-container{
+        flex-direction: column;
+    }
+    .message p{
+        font-size: 16px;
+    }
+    .news-text h3{
+        font-size: 32px;
+    }
+
+
+    /* ---- about page ---  */
+
+    .about1-text h3{
+        font-size: 36px;
+        margin-bottom: 20px;
+    }
+    .about1-box h4{
+        font-size: 30px;
+    }
+    .about1-img img{
+        margin-top: 20px;
+    }
+    .trust-box h3{
+        font-size: 33px;
+    }
+    .special-text h3{
+        font-size: 32px;
+    }
+    .stats-text h3{
+        font-size: 32px;
+        margin-bottom: 20px;
+    }
+    .quality-box h3{
+        font-size: 36px;
+    }
+    .team-text h3{
+        font-size: 32px;
+    }
+
+
+    /* ---- service page ---  */
+
+    .service-text h3{
+        font-size: 36px;
+    }
+    .service-box h4{
+        font-size: 30px;
+    }
+    .feature-text h3{
+        font-size: 32px;
+    }
+    .text-md-right{
+        text-align: right;
+    }
+    .dry-text h3{
+        font-size: 32px;
+    }
+
+
+    /* ---- contact page ---- */
+
+    .contact-text h3{
+        font-size: 36px;
+    }
+
+
+    /* ---- 404 page ----  */
+
+    .error-box h2{
+        font-size: 80px;
+    }
+
+
+    /* ---- faq page ----  */
+
+    .faq-text h3{
+        font-size: 32px;
+    }
+    .sub-text h5{
+        font-size: 20px;
+    }
+    .accordion-button{
+        font-size: 16px;
+    }
+}
+
+
+
+@media(max-width:360px){
+    .carousel-item img {
+        height: 75vh;
+    }
+    .about-text h3{
+        font-size: 28px;
+    }
+
+    #testimony{
+        height: 100%;
+    }
+
+    .form-right{
+        flex-direction: column;
+    }
+    .btn-4{
+        margin-top: 15px;
+    }
+
+
+    /* ---- about page ---  */
+
+    .trust-box h3 {
+        font-size: 30px;
+    }
+    .quality-box h3 {
+        font-size: 30px;
+    }
+}
